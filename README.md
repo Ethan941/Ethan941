@@ -1,53 +1,136 @@
 # Ethan PANDOR — Data & AI Engineer 👋
 
-Étudiant en **Bachelor Data/IA** à [HETIC](https://www.hetic.net/) (2024–2027), en stage chez **Valophis Habitat** (Île-de-France) en tant que développeur BI & Data.
-
-Je construis des pipelines de données, des dashboards et des solutions IA — avec une appétence particulière pour l'ingénierie des données et le GenAI.
-
----
-
-## 🛠️ Stack technique
-
-**Data & BI**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat&logo=oracle&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![QlikView](https://img.shields.io/badge/QlikView-009845?style=flat)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
-**Dev**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
-**ML / IA**
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+🎓 Bachelor Data & IA student at **HETIC** (2024–2027)
+📍 Île-de-France, France
+💼 Alternant BI & Data @ **Valophis Habitat** — Data Warehouse Oracle SQL + QlikView
 
 ---
 
-## 📌 Projets en avant
+## 👨‍💻 About Me
 
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| [⚽ Football Stats Scraper](https://github.com/Ethan941/scraping_football_stats) | Scraping, analyse et prédiction des stats Messi & Ronaldo | Python, Selenium, Pandas, Power BI |
-| [📊 Sales Dashboard](https://github.com/Ethan941/dashboard-sales-analysis) | Analyse des ventes d'un supermarché | Power BI, Python |
-| [⚡ Expense Report Agent](https://github.com/Ethan941/workflox) | Agent IA de traitement de notes de frais (vision + Google Sheets) | FastAPI, Llama 4, HTMX |
+Passionné par la **Data Engineering**, le **Machine Learning** et le **GenAI**.
 
----
+Je construis des pipelines de données, des dashboards analytiques et des solutions IA — avec une appétence particulière pour l'architecture data et les outils d'intelligence artificielle.
 
-## 🎯 En ce moment
-
-- 🏗️ Stage @ **Valophis Habitat** — DataWarehouse Oracle SQL + dashboards QlikView
-- 📚 Approfondissement SQL avancé, pipelines ETL, architecture data
-- 🔎 En veille sur les formations post-HETIC (Master Spécialisé Data Engineering / École d'ingénieur)
+Background en électronique/informatique industrielle (IUT + BUT), ce qui me donne une approche rigoureuse et orientée systèmes dans mes projets data.
 
 ---
 
-## 📫 Me contacter
+## 🛠 Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-pandor)
+**Languages**
+- Python
+- SQL (Oracle, MySQL)
+- JavaScript
+- HTML / CSS
+
+**Data Engineering & BI**
+- Oracle SQL — Data Warehouse
+- QlikView — Dashboard & reporting
+- ETL / Star Schema modeling
+- Power BI
+
+**Machine Learning & Data**
+- Pandas
+- NumPy
+- Scikit-learn
+- Selenium (web scraping)
+- Matplotlib / Seaborn
+
+**Backend & APIs**
+- FastAPI
+- Llama 4 (via Groq)
+- Google Sheets API / Google Drive API
+
+**Frontend**
+- React.js
+- HTMX
+
+**Outils**
+- Git / GitHub
+- MySQL Workbench
+- VS Code
 
 ---
 
-*Paris 🇫🇷 — Disponible pour des opportunités en Data Engineering & GenAI*
+## 📌 Featured Projects
 
+### ⚽ Football Stats Scraper & Analyzer
+Scraping, analyse et prédiction des statistiques de Cristiano Ronaldo & Lionel Messi.
+- Web scraping dynamique avec Selenium
+- Nettoyage et analyse avec Pandas
+- Modèle de prédiction Machine Learning (Scikit-learn)
+- Dashboard Power BI interactif
+
+### 📊 Sales Dashboard — Supermarket Analysis
+Analyse complète des ventes d'un supermarché avec Power BI et Python.
+- Nettoyage et transformation des données
+- KPIs de performance commerciale
+- Visualisations interactives Power BI
+
+### ⚡ Expense Report Agent (Workflox)
+Agent IA de traitement automatique de notes de frais.
+- Vision IA pour extraction de données (Llama 4 Scout via Groq)
+- API REST avec FastAPI
+- Interface web réactive avec HTMX
+- Export automatique vers Google Sheets
+
+### 🔐 Projet Python — Chiffrement
+Application de chiffrement de données en Python.
+- Algorithmes de chiffrement symétriques
+- Interface en ligne de commande
+
+---
+
+## 💼 Expérience Professionnelle
+
+**Développeur BI & Data — Valophis Habitat**
+📅 2024 – présent
+
+- Développement et maintenance du Data Warehouse Oracle SQL
+- Conception et refonte de dashboards QlikView (3 niveaux de lecture)
+- Modélisation en étoile et optimisation des requêtes SQL
+- Rédaction de documentation technique et processus métier
+
+---
+
+## 🎓 Formation
+
+**HETIC — Bachelor Data & IA**
+📅 2024 – 2027
+
+**IUT / BUT — Électronique & Informatique Industrielle**
+📅 Avant HETIC
+
+---
+
+## 🤝 Soft Skills
+
+- Rigueur & sens de l'analyse
+- Travail en équipe
+- Gestion de projet (Agile / Scrum)
+- Autonomie
+- Respect des délais
+
+---
+
+## 🌍 Languages
+
+- 🇫🇷 Français — Natif
+- 🇬🇧 Anglais — B1
+
+---
+
+## ⚽ Intérêts
+
+- Football (analyse & création de contenu)
+- Running
+- Intelligence Artificielle & GenAI
+
+---
+
+## 📫 Contact
+
+- 📧 ethanpandor43@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/) ← *(à compléter)*
+- 🐙 [GitHub](https://github.com/Ethan941)
