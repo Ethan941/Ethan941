@@ -37,7 +37,7 @@ Je construis des pipelines de données, des dashboards et des solutions IA — a
 
 ## 🎯 En ce moment
 
-- 🏗️ Alternance @ **Valophis Habitat** — DataWarehouse Oracle SQL + dashboards QlikView
+- 🏗️ Stage @ **Valophis Habitat** — DataWarehouse Oracle SQL + dashboards QlikView
 - 📚 Approfondissement SQL avancé, pipelines ETL, architecture data
 - 🔎 En veille sur les formations post-HETIC (Master Spécialisé Data Engineering / École d'ingénieur)
 
