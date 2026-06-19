@@ -132,5 +132,5 @@ Application de chiffrement de données en Python.
 ## 📫 Contact
 
 - 📧 ethanpandor43@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/) ← *(à compléter)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/) 
 - 🐙 [GitHub](https://github.com/Ethan941)
