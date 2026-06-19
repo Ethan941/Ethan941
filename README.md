@@ -1,4 +1,4 @@
-# Ethan PANDOR — Data & AI Engineer 👋
+# Ethan PANDOR — Data & AI Engineer 
 
 🎓 Bachelor Data & IA student at **HETIC** (2024–2027)
 📍 Île-de-France, France
