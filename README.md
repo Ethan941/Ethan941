@@ -2,7 +2,7 @@
 
 🎓 Bachelor Data & IA student at **HETIC** (2024–2027)
 📍 Île-de-France, France
-💼 Alternant BI & Data @ **Valophis Habitat** — Data Warehouse Oracle SQL + QlikView
+💼 stage BI & Data @ **Valophis Habitat** — Data Warehouse Oracle SQL + QlikView
 
 ---
 
@@ -85,7 +85,7 @@ Application de chiffrement de données en Python.
 ## 💼 Expérience Professionnelle
 
 **Développeur BI & Data — Valophis Habitat**
-📅 2024 – présent
+📅 2026/05 – 2026/06
 
 - Développement et maintenance du Data Warehouse Oracle SQL
 - Conception et refonte de dashboards QlikView (3 niveaux de lecture)
