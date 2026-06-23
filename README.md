@@ -1,164 +1,274 @@
-# Ethan PANDOR — Data analyst & AI Engineer 
+# 👋 Ethan Pandor — Data Engineer & Data Scientist Junior
 
-🎓 Bachelor Data & IA student at **HETIC** (2024–2027)
-📍 Île-de-France, France
-💼 Stage BI & Data @ **Valophis Habitat** — Data Warehouse Oracle SQL + QlikView
+🎓 Bachelor Data & IA @ HETIC  
+📍 Paris / Île-de-France  
+🔎 Looking for an internship or apprenticeship in **Data Engineering**, **Data Science** or **Applied AI**  
 
----
+I build projects around data collection, cleaning, transformation, analysis, Machine Learning and data pipelines.
 
-## 👨‍💻 About Me
-
-Passionné par la **Data Engineering**, le **Machine Learning** et le **GenAI**.
-
-Je construis des pipelines de données, des dashboards analytiques et des solutions IA — avec une appétence particulière pour l'architecture data et les outils d'intelligence artificielle.
-
-Background en électronique/informatique industrielle (IUT + BUT), ce qui me donne une approche rigoureuse et orientée systèmes dans mes projets data.
+My goal is to grow as a **Data Engineer / Data Scientist Junior** by working on real-world data problems: reliable data pipelines, predictive models, automation, data quality and AI-driven workflows.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 About me
 
-**Languages**
+I am a Data & AI student with hands-on experience in **Python**, **SQL**, **Machine Learning**, **Data Warehousing** and **Business Intelligence tools**.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+During my internship at **Valophis Habitat**, I worked on BI and Data Engineering topics, including Oracle SQL, data modeling, Data Warehouse design and dashboard creation.
 
-**Data Engineering & BI**
+I am now focusing my profile on two main paths:
 
-![QlikView](https://img.shields.io/badge/QlikView-009845?style=flat&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![ETL](https://img.shields.io/badge/ETL_Pipeline-4B8BBE?style=flat&logo=apacheairflow&logoColor=white)
+- **Data Engineering**: ETL, SQL, pipelines, data quality, automation, Data Warehouse
+- **Data Science**: Machine Learning, exploratory data analysis, model evaluation, predictive analytics, AI workflows
 
-**Machine Learning & Data**
+---
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+## 🛠️ Tech Stack
 
-**Backend & APIs**
+### Programming & Data
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets_API-34A853?style=flat&logo=googlesheets&logoColor=white)
+### Data Science & Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
-**Frontend**
+### Data Engineering & BI
+![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![QlikView](https://img.shields.io/badge/QlikView-009845?style=for-the-badge)
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![HTMX](https://img.shields.io/badge/HTMX-36C?style=flat&logoColor=white)
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**Outils**
+### Currently learning
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat&logo=mysql&logoColor=white)
+---
+
+## 💼 Professional Experience
+
+### BI & Data Engineering Intern — Valophis Habitat
+
+During my internship, I worked on a Data Warehouse and BI project using Oracle Database and QlikView.
+
+Main tasks:
+
+- Designed a Data Warehouse structure on Oracle Database
+- Modeled a star schema with multiple Oracle tables
+- Developed SQL queries with joins and business logic
+- Built interactive QlikView dashboards with KPIs and charts
+- Created dynamic filters and conditional indicators
+- Collected and consolidated business data from different departments
+
+This experience helped me understand the importance of clean, structured and reliable data for decision-making and operational performance.
 
 ---
 
 ## 📌 Featured Projects
 
-### ⚽ Football Stats Scraper & Analyzer
-Scraping, analyse et prédiction des statistiques de Cristiano Ronaldo & Lionel Messi.
-- Web scraping dynamique avec Selenium
-- Nettoyage et analyse avec Pandas
-- Modèle de prédiction Machine Learning (Scikit-learn)
-- Dashboard Power BI interactif
+## 1. Credit Card Fraud Detection — Machine Learning Project
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+Repository: `credit-card-fraud-detection`
 
----
+A Data Science project focused on detecting fraudulent bank transactions using Machine Learning models.
 
-### 📊 Sales Dashboard — Supermarket Analysis
-Analyse complète des ventes d'un supermarché avec Power BI et Python.
-- Nettoyage et transformation des données
-- KPIs de performance commerciale
-- Visualisations interactives Power BI
+### What I did
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- Loaded and explored transaction data
+- Cleaned and prepared the dataset
+- Performed exploratory data analysis
+- Identified fraud patterns
+- Trained Machine Learning models
+- Compared model performance using business-oriented metrics
 
----
+### Tech used
 
-### ⚡ Expense Report Agent (Workflox)
-Agent IA de traitement automatique de notes de frais.
-- Vision IA pour extraction de données (Llama 4 Scout via Groq)
-- API REST avec FastAPI
-- Interface web réactive avec HTMX
-- Export automatique vers Google Sheets
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib / Seaborn
+- Logistic Regression
+- Random Forest
+- ROC-AUC, Precision, Recall
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![HTMX](https://img.shields.io/badge/HTMX-36C?style=flat&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets_API-34A853?style=flat&logo=googlesheets&logoColor=white)
+### Why this project matters
+
+Fraud detection is a real-world problem where model performance has a direct business impact.  
+This project helped me understand classification, imbalanced datasets and the importance of choosing the right evaluation metrics.
 
 ---
 
-### 🔐 Projet Python — Chiffrement
-Application de chiffrement de données en Python.
-- Algorithmes de chiffrement symétriques
-- Interface en ligne de commande
+## 2. Football Data Pipeline & Prediction — Scraping + ML Project
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+Repository: `scraping_football_stats`
 
----
+A project combining web scraping, data cleaning, analysis and Machine Learning on football player statistics.
 
-## 💼 Expérience Professionnelle
+### What I did
 
-**Développeur BI & Data — Valophis Habitat**
-📅 05/2026 à 06/2026
+- Scraped football statistics from online sources
+- Cleaned and transformed raw data
+- Built structured datasets for analysis
+- Used Machine Learning to predict player performance
+- Created visual analysis with Power BI
 
-- Développement et maintenance du Data Warehouse Oracle SQL
-- Conception et refonte de dashboards QlikView (3 niveaux de lecture)
-- Modélisation en étoile et optimisation des requêtes SQL
-- Rédaction de documentation technique et processus métier
+### Tech used
 
----
+- Python
+- Selenium
+- BeautifulSoup
+- Pandas
+- NumPy
+- Scikit-learn
+- Random Forest Regressor
+- Power BI
 
-## 🎓 Formation
+### Why this project matters
 
-**HETIC — Bachelor Data & IA**
-📅 2024 – 2027
-
-**IUT / BUT — Électronique & Informatique Industrielle**
-📅 Avant HETIC
-
----
-
-## 🤝 Soft Skills
-
-- Rigueur & sens de l'analyse
-- Travail en équipe
-- Gestion de projet (Agile / Scrum)
-- Autonomie
-- Respect des délais
+This project shows my ability to build a full data workflow: from raw data collection to cleaning, modeling and visualization.
 
 ---
 
-## 🌍 Languages
+## 3. Oracle Data Warehouse & QlikView Dashboards — Data Engineering / BI Project
 
-- 🇫🇷 Français — Natif
-- 🇬🇧 Anglais — B1
+Professional project completed during my internship at Valophis Habitat.
+
+### What I did
+
+- Designed a Data Warehouse architecture
+- Modeled data using a star schema
+- Built SQL scripts on Oracle Database
+- Created dashboards with KPIs and dynamic filters
+- Improved data readability for business users
+
+### Tech used
+
+- Oracle SQL
+- Data Warehouse
+- Star Schema
+- QlikView
+- KPI design
+- Data visualization
+
+### Why this project matters
+
+This project strengthened my Data Engineering foundations: SQL, data modeling, business logic and dashboard production.
 
 ---
 
-## ⚽ Intérêts
+## 4. Supplier Compliance Data Pipeline — Data Engineering Project
 
-- Football (analyse & création de contenu)
-- Running
-- Intelligence Artificielle & GenAI
+Repository: `supplier-compliance-data-pipeline`
+
+Project in progress.
+
+The goal of this project is to build a Python pipeline that collects, validates and scores supplier compliance data.
+
+### Planned features
+
+- Load supplier data from CSV files
+- Clean and normalize supplier information
+- Detect missing or inconsistent values
+- Create supplier risk scores
+- Export clean datasets and reports
+- Add AI-generated summaries for supplier risk analysis
+
+### Tech used
+
+- Python
+- Pandas
+- SQL
+- Data validation
+- ETL pipeline
+- Risk scoring
+
+### Why this project matters
+
+This project is aligned with real-world Data Engineering and Data Science use cases: data quality, supplier data, compliance, automation and operational intelligence.
+
+---
+
+## 5. Document AI Extractor — Applied AI Project
+
+Repository: `document-ai-extractor`
+
+Project in progress.
+
+The goal is to extract structured information from text documents using Python and AI workflows.
+
+### Planned features
+
+- Extract key information from text
+- Convert unstructured content into structured JSON
+- Validate outputs with Pydantic
+- Prepare data for analysis or database storage
+- Experiment with LLM-based structured outputs
+
+### Tech used
+
+- Python
+- Pydantic
+- LLMs
+- Prompting
+- JSON structured outputs
+- Data validation
+
+### Why this project matters
+
+This project helps me develop skills in Applied AI, especially around LLMs, document processing and automation of data workflows.
+
+---
+
+## 🎯 What I am looking for
+
+I am looking for an internship or apprenticeship as:
+
+- Data Engineer Intern / Apprentice
+- Data Scientist Intern / Apprentice
+- Junior Data Engineer
+- Junior Data Scientist
+- AI / Data Automation Intern
+- Machine Learning Intern
+
+I am especially interested in roles involving:
+
+- Data pipelines
+- SQL and Data Warehousing
+- Data quality
+- Machine Learning
+- Predictive modeling
+- LLMs and AI workflows
+- Automation of data processes
+
+---
+
+## 📚 Current learning roadmap
+
+I am currently improving my skills in:
+
+- Advanced SQL
+- Data Engineering pipelines
+- APIs
+- Docker
+- FastAPI
+- Cloud basics, especially GCP
+- Machine Learning model deployment
+- LLMs, RAG and structured outputs
 
 ---
 
 ## 📫 Contact
 
-- 📧 ethanpandor43@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/) 
-- 🐙 [GitHub](https://github.com/Ethan941)
+📧 Email: ethanpandor43@gmail.com  
+💼 LinkedIn: Ethan Pandor  
+🐙 GitHub: Ethan941
