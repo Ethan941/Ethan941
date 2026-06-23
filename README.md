@@ -1,128 +1,161 @@
-# 👋 Ethan Pandor — Data Engineer & Data Scientist Junior
+#  Ethan Pandor — Data Scientist & Data Engineer Junior
 
-🎓 Bachelor Data & IA @ HETIC  
+🎓 Étudiant en Bachelor Data & IA à HETIC  
 📍 Paris / Île-de-France  
-🔎 Looking for an internship or apprenticeship in **Data Engineering**, **Data Science** or **Applied AI**  
+🔎 Recherche une alternance ou un stage en **Data Science**, **Data Engineering** ou **IA appliquée**
 
-I build projects around data collection, cleaning, transformation, analysis, Machine Learning and data pipelines.
+Je construis des projets autour de la collecte, du nettoyage, de la structuration, de l’analyse et de la modélisation de données.
 
-My goal is to grow as a **Data Engineer / Data Scientist Junior** by working on real-world data problems: reliable data pipelines, predictive models, automation, data quality and AI-driven workflows.
-
----
-
-## 🚀 About me
-
-I am a Data & AI student with hands-on experience in **Python**, **SQL**, **Machine Learning**, **Data Warehousing** and **Business Intelligence tools**.
-
-During my internship at **Valophis Habitat**, I worked on BI and Data Engineering topics, including Oracle SQL, data modeling, Data Warehouse design and dashboard creation.
-
-I am now focusing my profile on two main paths:
-
-- **Data Engineering**: ETL, SQL, pipelines, data quality, automation, Data Warehouse
-- **Data Science**: Machine Learning, exploratory data analysis, model evaluation, predictive analytics, AI workflows
+Mon objectif est d’évoluer vers un profil hybride **Data Scientist / Data Engineer**, capable de créer des pipelines fiables, exploiter des données métier, entraîner des modèles de Machine Learning et automatiser des workflows data avec Python, SQL et l’IA.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 À propos de moi
 
-### Programming & Data
+Je suis étudiant en **Bachelor Data & IA à HETIC** et je développe mes compétences à travers des projets concrets en Python, SQL, Machine Learning, Data Engineering et automatisation.
+
+Je m’intéresse particulièrement à :
+
+- la construction de pipelines de données ;
+- la qualité et la structuration des données ;
+- le Machine Learning appliqué à des cas réels ;
+- l’automatisation de traitements data ;
+- les workflows IA avec LLM ;
+- le déploiement de solutions data utiles aux métiers.
+
+Je souhaite rejoindre une équipe technique afin de progresser sur des problématiques concrètes de **Data Science**, **Data Engineering** et **IA appliquée**.
+
+---
+
+## 🛠️ Stack technique
+
+### Langages
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Data Science & Machine Learning
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-### Data Engineering & BI
+### Data Engineering & BI technique
+
 ![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![QlikView](https://img.shields.io/badge/QlikView-009845?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### Tools
+### Outils
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### Currently learning
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### En cours d’apprentissage
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 
 ---
 
-## 💼 Professional Experience
+## 💼 Expérience professionnelle
 
 ### BI & Data Engineering Intern — Valophis Habitat
 
-During my internship, I worked on a Data Warehouse and BI project using Oracle Database and QlikView.
+Lors de mon stage chez **Valophis Habitat**, j’ai travaillé sur des sujets liés à la structuration, l’exploitation et la visualisation de données métier.
 
-Main tasks:
+### Missions réalisées
 
-- Designed a Data Warehouse structure on Oracle Database
-- Modeled a star schema with multiple Oracle tables
-- Developed SQL queries with joins and business logic
-- Built interactive QlikView dashboards with KPIs and charts
-- Created dynamic filters and conditional indicators
-- Collected and consolidated business data from different departments
+- Conception d’un Data Warehouse sur Oracle Database
+- Modélisation d’un schéma en étoile
+- Développement de requêtes SQL avec jointures
+- Création de tableaux de bord QlikView
+- Mise en place de KPI et d’indicateurs visuels
+- Création de filtres dynamiques
+- Consolidation de données métier provenant de différentes directions
 
-This experience helped me understand the importance of clean, structured and reliable data for decision-making and operational performance.
+### Compétences développées
+
+- SQL
+- Modélisation de données
+- Data Warehouse
+- Data quality
+- Business logic
+- Dashboarding technique
+- Structuration de données métier
+
+Cette expérience m’a permis de comprendre l’importance de données propres, fiables et bien modélisées pour améliorer la prise de décision et automatiser les analyses métier.
 
 ---
 
-## 📌 Featured Projects
+# 📌 Projets principaux
 
-## 1. Credit Card Fraud Detection — Machine Learning Project
+## 1. Credit Card Fraud Detection — Projet Data Science
 
-Repository: `credit-card-fraud-detection`
+Repository : `credit-card-fraud-detection`
 
-A Data Science project focused on detecting fraudulent bank transactions using Machine Learning models.
+Projet de Machine Learning appliqué à la détection de fraude bancaire.
 
-### What I did
+### Objectif
 
-- Loaded and explored transaction data
-- Cleaned and prepared the dataset
-- Performed exploratory data analysis
-- Identified fraud patterns
-- Trained Machine Learning models
-- Compared model performance using business-oriented metrics
+Détecter des transactions frauduleuses à partir de données bancaires en utilisant des modèles de classification.
 
-### Tech used
+### Ce que j’ai réalisé
+
+- Nettoyage et préparation des données
+- Analyse exploratoire des transactions
+- Identification de patterns liés à la fraude
+- Entraînement de modèles de Machine Learning
+- Comparaison des performances des modèles
+- Évaluation avec des métriques adaptées au contexte de fraude
+
+### Technologies utilisées
 
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
-- Matplotlib / Seaborn
+- Matplotlib
+- Seaborn
 - Logistic Regression
 - Random Forest
-- ROC-AUC, Precision, Recall
+- ROC-AUC
+- Precision
+- Recall
 
-### Why this project matters
+### Ce que ce projet montre
 
-Fraud detection is a real-world problem where model performance has a direct business impact.  
-This project helped me understand classification, imbalanced datasets and the importance of choosing the right evaluation metrics.
+Ce projet montre ma capacité à travailler sur un problème réel de classification, avec une attention particulière portée aux métriques métier.  
+Dans un contexte de fraude, le **recall** est important car manquer une fraude peut coûter plus cher qu’un faux positif.
 
 ---
 
-## 2. Football Data Pipeline & Prediction — Scraping + ML Project
+## 2. Football Data Pipeline & Prediction — Projet Data Science / Data Engineering
 
-Repository: `scraping_football_stats`
+Repository : `scraping_football_stats`
 
-A project combining web scraping, data cleaning, analysis and Machine Learning on football player statistics.
+Projet combinant scraping, nettoyage de données, analyse et prédiction de performances sportives.
 
-### What I did
+### Objectif
 
-- Scraped football statistics from online sources
-- Cleaned and transformed raw data
-- Built structured datasets for analysis
-- Used Machine Learning to predict player performance
-- Created visual analysis with Power BI
+Créer un pipeline permettant de récupérer, nettoyer, analyser et exploiter des statistiques de joueurs de football.
 
-### Tech used
+### Ce que j’ai réalisé
+
+- Scraping de données depuis des sources web
+- Nettoyage et transformation des données
+- Structuration des datasets
+- Analyse exploratoire
+- Entraînement d’un modèle de prédiction
+- Visualisation des résultats avec Power BI
+
+### Technologies utilisées
 
 - Python
 - Selenium
@@ -133,142 +166,159 @@ A project combining web scraping, data cleaning, analysis and Machine Learning o
 - Random Forest Regressor
 - Power BI
 
-### Why this project matters
+### Ce que ce projet montre
 
-This project shows my ability to build a full data workflow: from raw data collection to cleaning, modeling and visualization.
+Ce projet montre ma capacité à construire un workflow data complet :  
+de la collecte de données brutes jusqu’à leur exploitation avec du Machine Learning et de la visualisation.
 
 ---
 
-## 3. Oracle Data Warehouse & QlikView Dashboards — Data Engineering / BI Project
+## 3. Oracle Data Warehouse & QlikView Dashboards — Projet Data Engineering
 
-Professional project completed during my internship at Valophis Habitat.
+Projet réalisé lors de mon stage chez **Valophis Habitat**.
 
-### What I did
+### Objectif
 
-- Designed a Data Warehouse architecture
-- Modeled data using a star schema
-- Built SQL scripts on Oracle Database
-- Created dashboards with KPIs and dynamic filters
-- Improved data readability for business users
+Structurer des données métier dans un environnement Oracle et créer des tableaux de bord exploitables pour les équipes internes.
 
-### Tech used
+### Ce que j’ai réalisé
+
+- Modélisation d’un Data Warehouse
+- Création d’un schéma en étoile
+- Écriture de requêtes SQL
+- Construction d’indicateurs métier
+- Création de dashboards QlikView
+- Mise en place de filtres et KPI dynamiques
+
+### Technologies utilisées
 
 - Oracle SQL
 - Data Warehouse
-- Star Schema
+- Modélisation en étoile
 - QlikView
-- KPI design
-- Data visualization
+- KPI
+- Visualisation de données
 
-### Why this project matters
+### Ce que ce projet montre
 
-This project strengthened my Data Engineering foundations: SQL, data modeling, business logic and dashboard production.
+Ce projet met en avant mes bases en **Data Engineering** : SQL, modélisation, structuration de données, logique métier et production de tableaux de bord techniques.
 
 ---
 
-## 4. Supplier Compliance Data Pipeline — Data Engineering Project
+## 4. Supplier Compliance Data Pipeline — Projet Data Engineering
 
-Repository: `supplier-compliance-data-pipeline`
+Repository : `supplier-compliance-data-pipeline`
 
-Project in progress.
+Projet en cours de construction.
 
-The goal of this project is to build a Python pipeline that collects, validates and scores supplier compliance data.
+### Objectif
 
-### Planned features
+Créer un pipeline Python permettant de collecter, nettoyer, valider et scorer des données fournisseurs dans un contexte de conformité.
 
-- Load supplier data from CSV files
-- Clean and normalize supplier information
-- Detect missing or inconsistent values
-- Create supplier risk scores
-- Export clean datasets and reports
-- Add AI-generated summaries for supplier risk analysis
+### Fonctionnalités prévues
 
-### Tech used
+- Chargement de données fournisseurs depuis un fichier CSV
+- Nettoyage et normalisation des données
+- Détection des valeurs manquantes
+- Validation des champs obligatoires
+- Calcul d’un score de risque fournisseur
+- Export d’un rapport propre
+- Génération d’un résumé automatique du risque fournisseur
+
+### Technologies utilisées
 
 - Python
 - Pandas
 - SQL
 - Data validation
-- ETL pipeline
+- ETL
 - Risk scoring
 
-### Why this project matters
+### Ce que ce projet montre
 
-This project is aligned with real-world Data Engineering and Data Science use cases: data quality, supplier data, compliance, automation and operational intelligence.
+Ce projet est orienté **Data Engineering** et **IA appliquée**.  
+Il met en avant la qualité des données, la structuration, l’automatisation et la création de pipelines exploitables dans un contexte métier réel.
 
 ---
 
-## 5. Document AI Extractor — Applied AI Project
+## 5. Document AI Extractor — Projet IA appliquée
 
-Repository: `document-ai-extractor`
+Repository : `document-ai-extractor`
 
-Project in progress.
+Projet en cours de construction.
 
-The goal is to extract structured information from text documents using Python and AI workflows.
+### Objectif
 
-### Planned features
+Extraire automatiquement des informations structurées depuis des documents ou des textes non structurés.
 
-- Extract key information from text
-- Convert unstructured content into structured JSON
-- Validate outputs with Pydantic
-- Prepare data for analysis or database storage
-- Experiment with LLM-based structured outputs
+### Fonctionnalités prévues
 
-### Tech used
+- Lecture de textes ou documents
+- Extraction d’informations clés
+- Transformation en format JSON structuré
+- Validation des sorties avec Pydantic
+- Préparation des données pour analyse ou stockage
+- Expérimentation avec des LLM
+
+### Technologies utilisées
 
 - Python
 - Pydantic
-- LLMs
+- LLM
 - Prompting
-- JSON structured outputs
+- JSON structured output
 - Data validation
 
-### Why this project matters
+### Ce que ce projet montre
 
-This project helps me develop skills in Applied AI, especially around LLMs, document processing and automation of data workflows.
+Ce projet montre mon intérêt pour l’**IA appliquée**, notamment l’extraction d’informations, les workflows LLM et l’automatisation de traitements de données.
 
 ---
 
-## 🎯 What I am looking for
+## 🎯 Ce que je recherche
 
-I am looking for an internship or apprenticeship as:
+Je recherche une alternance ou un stage sur des postes comme :
 
-- Data Engineer Intern / Apprentice
-- Data Scientist Intern / Apprentice
-- Junior Data Engineer
-- Junior Data Scientist
-- AI / Data Automation Intern
+- Data Scientist Junior
+- Data Engineer Junior
 - Machine Learning Intern
+- Data Engineer Intern
+- AI / Data Automation Intern
+- Applied AI Intern
 
-I am especially interested in roles involving:
+Je suis particulièrement intéressé par les missions autour de :
 
-- Data pipelines
-- SQL and Data Warehousing
-- Data quality
-- Machine Learning
-- Predictive modeling
-- LLMs and AI workflows
-- Automation of data processes
+- pipelines de données ;
+- ETL ;
+- SQL avancé ;
+- Machine Learning ;
+- classification et prédiction ;
+- data quality ;
+- automatisation ;
+- LLM et IA générative ;
+- déploiement de solutions data.
 
 ---
 
-## 📚 Current learning roadmap
+## 📚 Objectifs d’apprentissage actuels
 
-I am currently improving my skills in:
+Je travaille actuellement sur :
 
-- Advanced SQL
-- Data Engineering pipelines
+- SQL avancé
+- Data pipelines
 - APIs
 - Docker
 - FastAPI
-- Cloud basics, especially GCP
-- Machine Learning model deployment
-- LLMs, RAG and structured outputs
+- Cloud, notamment GCP
+- Machine Learning appliqué
+- Déploiement de modèles
+- LLM, RAG et structured outputs
+- Bonnes pratiques Git / GitHub
 
 ---
 
-## 📫 Contact
+## 📫 Me contacter
 
-📧 Email: ethanpandor43@gmail.com  
-💼 LinkedIn: Ethan Pandor  
-🐙 GitHub: Ethan941
+📧 Email : ethanpandor43@gmail.com  
+💼 LinkedIn : Ethan Pandor  
+🐙 GitHub : [github.com/Ethan941](https://github.com/Ethan941)
