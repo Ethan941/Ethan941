@@ -2,7 +2,7 @@
 
 🎓 Étudiant en Bachelor Data & IA à HETIC
 📍 Paris / Île-de-France
-🔎 Recherche une alternance ou un stage en **Data Science**, **Data Engineering** ou **IA appliquée**
+💼 Alternant Tech Data chez La Poste
 
 Je construis des projets autour de la collecte, du nettoyage, de la structuration, de l’analyse, de la modélisation et de l’automatisation de données.
 
